@@ -22,7 +22,7 @@ HEADERS += ConnectionWindow.h \
     platform-constants.h \
     PowerNotifier.h
 
-TRANSLATIONS += locale/sv.ts
+TRANSLATIONS += locale/sv.ts locale/nl.ts
 qtPrepareTool(LRELEASE, lrelease)
 system("$$LRELEASE" "$$_PRO_FILE_")
 RESOURCES += locale/locales.qrc
