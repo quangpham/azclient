@@ -71,7 +71,7 @@ Wilt u het nu downloaden?</translation>
     <message>
         <location filename="../ConnectionWindow.cpp" line="246"/>
         <source>&amp;Download Now</source>
-        <translation type="unfinished">& amp; Nu Downloaden</translation>
+        <translation type="unfinished">&amp;Nu Downloaden</translation>
     </message>
     <message>
         <location filename="../ConnectionWindow.cpp" line="247"/>
